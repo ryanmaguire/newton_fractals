@@ -1,7 +1,6 @@
 # Table of Contents
 1. [Newton Fractals](#nf)
-2. [Compiling](#compiling)
-3. [License](#license)
+2. [License](#license)
 
 # Newton Fractals <a name="nf"></a>
 This project renders Newton fractals. Given a complex polynomial
