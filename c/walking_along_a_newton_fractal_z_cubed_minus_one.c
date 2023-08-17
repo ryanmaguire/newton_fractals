@@ -18,8 +18,6 @@
  ******************************************************************************
  *  Purpose:                                                                  *
  *      Traces out the iterations in Newton's method for z^3 - 1.             *
- *  Notes:                                                                    *
- *      This file is an "extra" and is not compiled as part of libtmpl.       *
  ******************************************************************************
  *  Author:     Ryan Maguire                                                  *
  *  Date:       October 26, 2021                                              *
@@ -249,7 +247,7 @@ int main(void)
     struct complex_number *A = malloc(sizeof(*A) * walk_size);
 
     /*  And open an SVG file so that we can write to it.                      */
-    FILE *fp = fopen("tmpl_walking_along_a_newton_fractal.svg", "w");
+    FILE *fp = fopen("walking_along_a_newton_fractal.svg", "w");
 
     /*  If malloc fails it returns NULL. Check that this didn't happen.       */
     if (A == NULL)
