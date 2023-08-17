@@ -14,7 +14,9 @@ and color $z_{0}$ based on which point Newton's method converges to. (If it
 didn't converge, color it black. This is the Julia set of the Newton fractal).
 
 The Newton fractal for $p(z)=z^{3}-1$ is given below.
+
 ![Newton Fractal](https://math.dartmouth.edu/~rmaguire/projects/newton_fractals/newton_fractal_z_cubed_minus_one.png "Newton Fractal")
+
 
 # License
     newton_fractals is free software: you can redistribute it and/or
