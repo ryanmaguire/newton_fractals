@@ -17,7 +17,7 @@ didn't converge, color it black. This is the Julia set of the Newton fractal).
 
 The Newton fractal for $p(z)=z^{3}-1$ is given below.
 
-![Newton Fractal](https://github.com/ryanmaguire/newtonian_black_holes/blob/main/assets/newton_fractal_z_cubed_minus_one.png "Newton Fractal")
+![Newton Fractal](https://github.com/ryanmaguire/newton_fractals/blob/main/assets/newton_fractal_z_cubed_minus_one.png "Newton Fractal")
 
 # License
     newton_fractals is free software: you can redistribute it and/or
